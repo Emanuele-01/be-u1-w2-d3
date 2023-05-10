@@ -11,7 +11,7 @@ public class es_2 extends Thread {
 		this.partialSum = 0;
 	};
 	
-	public int partialSum() {
+	public int getPartialSum() {
 		return partialSum;
 	};
 	
